@@ -1,0 +1,1 @@
+Simply Todo App only for learning propose, all of the node modules are untracked in the .gitgnore file.
