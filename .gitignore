@@ -1,2 +1,3 @@
+#untrack all of the node modules and .DB_Store
 node_modules
 .DS_Store
